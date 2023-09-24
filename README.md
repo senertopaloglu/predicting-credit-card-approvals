@@ -1,0 +1,1 @@
+A quick project investigating the feasibility of predicting credit card approvals based on a variety of features, such as age and gender. Dataset from UCI.
